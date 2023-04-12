@@ -1,0 +1,5 @@
+﻿Title,title explaination,Title 2,title 2 explaination,Title3,title 3 explaination,title 4,title 4 explaination
+Title,title explaination,Title 2,"title 2 explaination
+#+begin_src python
+df = pd.read_csv(""data.csv"")
+#+end_src",Title3,title 3 explaination,title 4,title 4 explaination
